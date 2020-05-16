@@ -6,6 +6,6 @@ Learning Project
 
 2.Run  html file
 
-3. New dice number will roll everytime we refresh the page
+3.New dice number will roll everytime we refresh the page
 
 
